@@ -28,7 +28,7 @@
 ## 🏆 Achievements
 
 - 🧠 Machine Learning Certification from IIIT Allahabad  
-- 💻 HackerRank (Python) +  4⭐ Silver Badge  
+- 💻 HackerRank (Python)  4⭐ Silver Badge  
 - 👩‍💻 CodeChef Contributo(Total Problems Solved: 250) | LeetCode Explorer  
 
 ## 📫 Let's Connect
