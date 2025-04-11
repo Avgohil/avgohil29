@@ -25,24 +25,18 @@
 - 🌾 [FarmFlow-Price-Prediction](https://github.com/Avgohil/FarmFlow-Price-Prediction)  
 - 💊 [MedTrack – Health Logger](https://github.com/Avgohil/Med-Track-) 
 
----
-
 ## 🏆 Achievements
 
 - 🧠 Machine Learning Certification from IIIT Allahabad  
-- 💻 4⭐ HackerRank (Python) + Silver Badge  
-- 👩‍💻 CodeChef Contributor | LeetCode Explorer  
-
----
+- 💻 HackerRank (Python) +  4⭐ Silver Badge  
+- 👩‍💻 CodeChef Contributo(Total Problems Solved: 250) | LeetCode Explorer  
 
 ## 📫 Let's Connect
 
 - [CodeChef](https://www.codechef.com/users/ankitagohil29)  
 - [HackerRank](https://www.hackerrank.com/profile/ankitagohil945)  
-<!-- Add LinkedIn here if you want later -->
-
----
-
+- [LinkedIn](https://www.linkedin.com/in/ankitagohil29)
+- 
 <p align="center"><i>
 "Still growing, still grounding — hoping to build something that feels like me."
 </i></p>
