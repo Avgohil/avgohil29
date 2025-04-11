@@ -20,10 +20,10 @@
 
 ## 🚀 Featured Projects
 
-- 🔍 [EDA-Diwali-Sales-Analysis](https://github.com/avgohil29/EDA-Diwali-Sales-Analysis)  
-- 🎯 [Rock-vs-Mine-Classification](https://github.com/avgohil29/rock-vs-mine-classification-)  
-- 🌾 [FarmFlow-Price-Prediction](https://github.com/avgohil29/FarmFlow-Price-Prediction)  
-- 💊 [MedTrack – Health Logger](https://github.com/avgohil29/MedTrack)  
+- 🔍 [EDA-Diwali-Sales-Analysis](https://github.com/Avgohil/EDA-Diwali-Sales-Analysis)  
+- 🎯 [Rock-vs-Mine-Classification](https://github.com/Avgohil/rock-vs-mine-classification-)  
+- 🌾 [FarmFlow-Price-Prediction](https://github.com/Avgohil/FarmFlow-Price-Prediction)  
+- 💊 [MedTrack – Health Logger](https://github.com/Avgohil/MedTrack)  
 
 ---
 
