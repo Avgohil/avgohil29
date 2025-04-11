@@ -23,7 +23,7 @@
 - 🔍 [EDA-Diwali-Sales-Analysis](https://github.com/Avgohil/EDA-Diwali-Sales-Analysis)  
 - 🎯 [Rock-vs-Mine-Classification](https://github.com/Avgohil/rock-vs-mine-classification-)  
 - 🌾 [FarmFlow-Price-Prediction](https://github.com/Avgohil/FarmFlow-Price-Prediction)  
-- 💊 [MedTrack – Health Logger](https://github.com/Avgohil/MedTrack)  
+- 💊 [MedTrack – Health Logger](https://github.com/Avgohil/Med-Track-) 
 
 ---
 
