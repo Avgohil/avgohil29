@@ -36,7 +36,7 @@
 - [CodeChef](https://www.codechef.com/users/ankitagohil29)  
 - [HackerRank](https://www.hackerrank.com/profile/ankitagohil945)  
 - [LinkedIn](https://www.linkedin.com/in/ankitagohil29)
-- 
+  
 <p align="center"><i>
 "Still growing, still grounding — hoping to build something that feels like me."
 </i></p>
